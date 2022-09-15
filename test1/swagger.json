@@ -2,7 +2,7 @@
   "openapi" : "3.0.0",
   "servers" : [ {
     "description" : "SwaggerHub API Auto Mocking",
-    "url" : "https://virtserver.dev.swaggerhub.com/ABC_Free/testSync2/1.0.0"
+    "url" : "https://virtserver.dev.swaggerhub.com/ABC_Enterprise/testSync3/1.0.0"
   } ],
   "info" : {
     "version" : "1.0.0",
